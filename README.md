@@ -105,28 +105,17 @@ me = Developer()
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suhanimehra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Suhani's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhanimehra&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Suhanimehra&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Suhanimehra&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhanimehra&theme=tokyo-night&hide_border=true" alt="GitHub activity graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suhanimehra&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
 </p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"/>
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"/>
-  </picture>
-</p>
-
-<img src="assets/binary-divider.svg" width="100%" alt=""/>
 
 ## 🌱 Currently Training On
 
