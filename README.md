@@ -113,8 +113,13 @@ me = Developer()
   <img width="70%" src="https://streak-stats.demolab.com/?user=Suhanimehra&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suhanimehra&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suhanimehra/Suhanimehra/output/github-snake-dark.svg"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Suhanimehra/Suhanimehra/output/github-snake.svg"/>
+  </picture>
 </p>
 
 ## 🌱 Currently Training On
